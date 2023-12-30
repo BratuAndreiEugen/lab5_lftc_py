@@ -1,0 +1,1 @@
+#include<iostream>usingnamespacestd;intmain(){floatID,ID;floatID;ID=CONST;floatID;cin>>ID;ID=ID*ID*ID;ID=CONST*ID*ID;cout<<ID<<CONST<<ID;returnCONST;}
